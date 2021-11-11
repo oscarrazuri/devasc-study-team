@@ -1,1 +1,4 @@
 file to git again
+Estoy en camino a aprobar el examen DevNet DEVASC
+¡Estoy empezando a entender a Git!
+Este texto se agregó originalmente en la rama de características
